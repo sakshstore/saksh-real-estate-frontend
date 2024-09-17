@@ -8,7 +8,7 @@ const pinOptions = { background: '#FBBC04' }
 
 <template>
   <GoogleMap
-    api-key="AIzaSyBF0y94GQ1N-62WDAe-IIl5utVyI4GQ4mI"
+    api-key="AIz "
     mapId="test"
     style="width: 100%; height: 500px"
     :center="center"
