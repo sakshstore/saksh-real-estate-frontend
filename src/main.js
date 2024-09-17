@@ -11,7 +11,7 @@ const app = createApp(App);
 
 app.use(Vue3GoogleMap, {
     load: {
-        key: 'AIzaSyBF0y94GQ1N-62WDAe-IIl5utVyI4GQ4mI',
+        key: 'dI',
         libraries: 'places'
     }
 });
