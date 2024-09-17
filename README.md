@@ -1,24 +1,24 @@
-# real-estate-frontend
+# Real Estate Property Management
 
-## Project setup
-```
-npm install
-```
+Welcome to the **Real Estate Property Management** project! This Vue.js application is designed to help you manage real estate properties efficiently. It features property listings, detailed views, and an interactive Google Map for easy navigation.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Table of Contents
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- [Installation](#installation)
+- [Usage](#usage)
+- [Components](#components)
+- [API Endpoints](#api-endpoints)
+- [Google Maps Integration](#google-maps-integration)
+- [Contributing](#contributing)
+- [License](#license)
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Installation
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+To get started with the project, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/sakshstore/saksh-real-estate-frontend.git
+   cd real-estate-property-management
+
+```
