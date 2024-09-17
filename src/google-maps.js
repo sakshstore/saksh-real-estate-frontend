@@ -6,7 +6,7 @@ const app = createApp({});
 
 app.use(VueGoogleMaps, {
 load: {
-key: 'AIzaSyBF0y94GQ1N-62WDAe-IIl5utVyI4GQ4mI',
+key: 'd-d',
 },
 installComponents: true, // Ensure components are installed
 });
